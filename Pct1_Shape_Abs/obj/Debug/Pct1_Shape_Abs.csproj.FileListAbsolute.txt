@@ -1,0 +1,14 @@
+C:\Users\Traian\Desktop\coding\c#\Clase Abstracte\bin\Debug\Clase Abstracte.exe.config
+C:\Users\Traian\Desktop\coding\c#\Clase Abstracte\bin\Debug\Clase Abstracte.exe
+C:\Users\Traian\Desktop\coding\c#\Clase Abstracte\bin\Debug\Clase Abstracte.pdb
+C:\Users\Traian\Desktop\coding\c#\Clase Abstracte\obj\Debug\Pct1_Shape_Abs.csprojResolveAssemblyReference.cache
+C:\Users\Traian\Desktop\coding\c#\Clase Abstracte\obj\Debug\Pct1_Shape_Abs.csproj.CoreCompileInputs.cache
+C:\Users\Traian\Desktop\coding\c#\Clase Abstracte\obj\Debug\Clase Abstracte.exe
+C:\Users\Traian\Desktop\coding\c#\Clase Abstracte\obj\Debug\Clase Abstracte.pdb
+C:\Users\Traian\Desktop\coding\c#\Clase Abstracte\Pct1_Shape_Abs\bin\Debug\Clase Abstracte.exe.config
+C:\Users\Traian\Desktop\coding\c#\Clase Abstracte\Pct1_Shape_Abs\bin\Debug\Clase Abstracte.exe
+C:\Users\Traian\Desktop\coding\c#\Clase Abstracte\Pct1_Shape_Abs\bin\Debug\Clase Abstracte.pdb
+C:\Users\Traian\Desktop\coding\c#\Clase Abstracte\Pct1_Shape_Abs\obj\Debug\Pct1_Shape_Abs.csprojResolveAssemblyReference.cache
+C:\Users\Traian\Desktop\coding\c#\Clase Abstracte\Pct1_Shape_Abs\obj\Debug\Pct1_Shape_Abs.csproj.CoreCompileInputs.cache
+C:\Users\Traian\Desktop\coding\c#\Clase Abstracte\Pct1_Shape_Abs\obj\Debug\Clase Abstracte.exe
+C:\Users\Traian\Desktop\coding\c#\Clase Abstracte\Pct1_Shape_Abs\obj\Debug\Clase Abstracte.pdb

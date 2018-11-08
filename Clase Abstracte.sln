@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2037
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pct1_Shape_Abs", "Pct1_Shape_Abs.csproj", "{5F52E0EA-81B6-466F-A9CE-7C023E0EFCED}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pct1_Shape_Abs", "Pct1_Shape_Abs\Pct1_Shape_Abs.csproj", "{5F52E0EA-81B6-466F-A9CE-7C023E0EFCED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

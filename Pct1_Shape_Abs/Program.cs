@@ -20,16 +20,17 @@ namespace Clase_Abstracte
             Console.WriteLine(Math.Round(c.GetPerimeter(), 2));
 
             Rectangle r = new Rectangle(2, 3);
-            Console.WriteLine("Rectangle: ");
+            Console.WriteLine("\nRectangle: ");
             Console.WriteLine(r.GetArea());
             Console.WriteLine(r.GetPerimeter());
 
             Square s = new Square(5);
-            Console.WriteLine("Square: ");
+            Console.WriteLine("\nSquare: ");
             Console.WriteLine(s.GetArea());
             Console.WriteLine(s.GetPerimeter());
 
             Cilinder cil = new Cilinder(10, 5);
+            Console.WriteLine("\nCilinder: ");
             Console.WriteLine(Math.Round(cil.GetArea(), 2));
             //cil.GetPerimeter(); cum pot face ca sa nu-i mai dau acces lui cil la GetPerimeter() de la circle? 
         }
