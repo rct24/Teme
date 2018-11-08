@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pct1_Shape_Abs", "Pct1_Shape_Abs.csproj", "{5F52E0EA-81B6-466F-A9CE-7C023E0EFCED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F52E0EA-81B6-466F-A9CE-7C023E0EFCED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F52E0EA-81B6-466F-A9CE-7C023E0EFCED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F52E0EA-81B6-466F-A9CE-7C023E0EFCED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F52E0EA-81B6-466F-A9CE-7C023E0EFCED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37BA1CC3-8ACC-4ED5-9FFB-2D34BA215371}
+	EndGlobalSection
+EndGlobal
